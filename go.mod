@@ -4,5 +4,5 @@ module github.com/golang/protobuf
 go 1.9
 
 require (
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 )
