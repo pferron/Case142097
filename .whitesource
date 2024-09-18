@@ -30,10 +30,11 @@
     "issueType": "repo"
   },
   "remediateSettings": {
+    "draftPR": true,
     "enableRenovate": true,
-    "extends": ["config:recommended"],
+	  "extends": ["config:recommended"],
     "workflowRules": {
-      "enabled": true
+		  "enabled": true
     }
   },
    "imageSettings":{
